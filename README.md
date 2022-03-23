@@ -4,4 +4,4 @@ Se realizo el punto 1 del taller de semáforo en python, usando los hilos y sema
 # INTEGRANTES 
 * JUAN SEBATIAN CAMNINO MUÑOZ - 201942104
 * CRISTIAN DUVAN MACHADO MOSQUERA - 201940062
-* JUAN FELIPE OZORIO
+* JUAN FELIPE OZORIO ZAPATA - 2022752
